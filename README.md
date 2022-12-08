@@ -12,7 +12,7 @@ I am an aspiring Software Engineer
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
-  <a href="" target="_blank">
+  <a href="https://angel.co/u/curtis-chung" target="_blank">
     <img src="https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black" alt="AngelList Badge"/>
   </a>
 
@@ -28,9 +28,9 @@ I am an aspiring Software Engineer
 
 - I graduated from App Academy December 2022
 
-- I graduated from CUNY Baruch College with a BBA Finance Class of 2017.
+- I graduated from CUNY Baruch College with a BBA Finance December 2017.
 
-- Hobbies include: a,b,c. 
+- Hobbies include: Cooking, Traveling, Investing, and Gaming 
 
 
 
