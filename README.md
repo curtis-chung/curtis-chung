@@ -1,4 +1,4 @@
-## Hello there 👋🏽! I'm Curtis. 
+## Hi, I'm Curtis 👋🏽
 
 I am an aspiring Software Engineer
 
@@ -35,16 +35,6 @@ I am an aspiring Software Engineer
 </div>
 
 ---
-
-### About Me : 
-
-- I graduated from App Academy December 2022
-
-- I graduated from CUNY Baruch College with a BBA Finance December 2017.
-
-- Hobbies include: Cooking, Traveling, Investing, and Gaming 
-
-
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=curtis-chung&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=curtis-chung&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
