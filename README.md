@@ -1,4 +1,4 @@
-## Hello there 👋🏽! My name is Curtis Chung. 
+## Hello there 👋🏽! I'm Curtis. 
 
 I am an aspiring Software Engineer
 
